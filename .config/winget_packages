@@ -16,18 +16,6 @@
 					"PackageIdentifier" : "DominikReichl.KeePass"
 				},
 				{
-					"PackageIdentifier" : "Notepad++.Notepad++"
-				},
-				{
-					"PackageIdentifier" : "SQLite.SQLite"
-				},
-				{
-					"PackageIdentifier" : "JAMSoftware.TreeSize.Free"
-				},
-				{
-					"PackageIdentifier" : "Xming.Xming"
-				},
-				{
 					"PackageIdentifier" : "eza-community.eza"
 				},
 				{
@@ -41,12 +29,6 @@
 				},
 				{
 					"PackageIdentifier" : "Starship.Starship"
-				},
-				{
-					"PackageIdentifier" : "sxyazi.yazi"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.Sqlcmd"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.PowerShell"
